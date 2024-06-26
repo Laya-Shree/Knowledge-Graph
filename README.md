@@ -2,7 +2,6 @@
 ### Automatic Extraction and Analysis of Sustainability Reports
 Extracting entities, relations, and attributes from sustainability reports and presenting them in the form of a knowledge graph using Neo4j.
 
-![Project Banner](https://github.com/Laya-Shree/Knowledge-Graph/assets/113045112/your-banner-image.png)
 
 ## Project Overview
 
